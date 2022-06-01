@@ -5,19 +5,18 @@
 
 ### step 0 :
 * 註冊 Heroku, github 請下載 HeidiSQL, VS code
+* github, heroku account setup
+* download HeidiSQL, VS code
 ### step 1 : Clone this github
-
+* clone https://github.com/huanchen1107/aiot0529 (initial setup)
+* delete .git 管理者, folder ./aiot0529 下面的資料都搬上一層
+* git remote to new repository aiot0601
 ### step 2 : install some package
 
 
 ```python
-pip insall gunicorn   
-Flask==2.0.1 
-Jinja2==3.0.1 
-psycopg2 
-sklearn 
-pandas  
-numpy 
+pip install gunicorn Flask==2.0.1 
+Jinja2==3.0.1 psycopg2 sklearn pandas  numpy 
 ```
 
 ### step 3: add an heroku postgredb
