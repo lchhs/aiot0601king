@@ -36,10 +36,10 @@ mydb="<fill-in-Heroku-Postgredb-DB-db>"
 
 ```
 ### step 5: import postgredb (in db/postgre.db)
-
+<img src="./img/HOST.jpg" />
 
 ### step 6: setting db in app.py
-
+<img src="./img/HeidiSQL.jpg" />
 
 ```sql
 myserver ="<fill-in-Heroku-Postgredb-DB-sever>"
@@ -49,22 +49,27 @@ mydb="<fill-in-Heroku-Postgredb-DB-db>"
 
 ```
 ### step 7: testing locally by running python app.py
-
+local
+SetRandom
 <img src="./img/SetRandom.jpg" />
+CallAI
 <img src="./img/Ai.jpg" />
 
 
 ### step 8: deploy to github (new private github repositoy)
 
 delete .git and git remote add origin master github.com/xxxxx
-
+<img src="./img/appsuccessfull.jpg" />
 
 ### step 9: Heroku deploy from github
-
+<img src="./img/HEROKUconnectgitHub.jpg" />
 ### step 10: Complete
 
 https://aiot0601king.herokuapp.com/ 
-
+SetRandom
+<img src="./img/herohuSetRandom.jpg" />
+CallAI
+<img src="./img/herokuCallAI.jpg" />
 
 
 
