@@ -50,7 +50,7 @@ mydb="<fill-in-Heroku-Postgredb-DB-db>"
 ```
 ### step 7: testing locally by running python app.py
 
-![local server success](Readme.mdD:%5C%E7%89%A9%E8%81%AF%E7%B6%B2%5C0601%5Cimg/SetRandom.jpg)
+![local server success](%5C%E7%89%A9%E8%81%AF%E7%B6%B2%5C0601%5Cimg/SetRandom.jpg)
 
 ### step 8: deploy to github (new private github repositoy)
 
