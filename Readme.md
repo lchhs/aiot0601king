@@ -50,9 +50,7 @@ mydb="<fill-in-Heroku-Postgredb-DB-db>"
 ```
 ### step 7: testing locally by running python app.py
 
-<img src="./SetRandom.jpg" height=500/>
-<img src="./Ai.jpg" height=500/>
-
+![local server success](Readme.mdD:%5C%E7%89%A9%E8%81%AF%E7%B6%B2%5C0601%5Cimg/SetRandom.jpg)
 
 ### step 8: deploy to github (new private github repositoy)
 
@@ -63,11 +61,7 @@ delete .git and git remote add origin master github.com/xxxxx
 
 ### step 10: Complete
 
-Sample link 1:
-https://awinlab-aiot.herokuapp.com/
-
-Sample link 2: 
-https://aiot0529.herokuapp.com/
+https://aiot0601king.herokuapp.com/ 
 
 
 
