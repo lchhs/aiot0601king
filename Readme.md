@@ -12,11 +12,10 @@
 * delete .git 管理者, folder ./aiot0529 下面的資料都搬上一層
 * git remote to new repository aiot0601
 ### step 2 : install some package
-
+* If you want to test locally, you need to install the following packages. (That is the same thing in the requirements.txt)
 
 ```python
-pip install gunicorn Flask==2.0.1 
-Jinja2==3.0.1 psycopg2 sklearn pandas  numpy 
+pip install gunicorn Flask==2.0.1 Jinja2==3.0.1 psycopg2 sklearn pandas numpy 
 ```
 
 ### step 3: add an heroku postgredb
