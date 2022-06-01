@@ -62,7 +62,7 @@ delete .git and git remote add origin master github.com/xxxxx
 <img src="./img/appsuccessfull.jpg" />
 
 ### step 9: Heroku deploy from github
-<img src="./img/HEROKUconnectgitHub.jpg" />
+<img src="./img/HEROKUconnectGitHub.jpg" />
 ### step 10: Complete
 
 https://aiot0601king.herokuapp.com/ 
